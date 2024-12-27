@@ -7,6 +7,8 @@
 
 
 
+
+
 - 🔭 I’m currently working on : Freelancer Data Quality Analyst
 - 🌱 I’m currently learning: Data Science
 - 💬 My Experties: Python|SQL|Power BI|Tableau|Excel|Statistical Analysis|
@@ -16,7 +18,7 @@
 - ⚡ Fun fact:  If you passionate about data, you can do anything with Data
 
 ## Connect with me:
-(https://github.com/user-attachments/assets/d091d963-9fec-4fe1-bff1-9fb3623a085b)
+![image](https://github.com/user-attachments/assets/d091d963-9fec-4fe1-bff1-9fb3623a085b)
 www.linkedin.com/in/chandrim-dey-sajjan
 
 
