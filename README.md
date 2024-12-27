@@ -20,7 +20,8 @@ www.linkedin.com/in/chandrim-dey-sajjan
 
 ## Languages and Tools:
 
-![image](https://github.com/user-attachments/assets/0b8d2118-4988-4802-8914-0fde00adbe20)
+![image](https://github.com/user-attachments/assets/0b8d2118-4988-4802-8914-0fde00adbe20) ![image](https://github.com/user-attachments/assets/d8225aab-3bfa-4977-a0fe-d78e499bad31)
+
 
 
 
