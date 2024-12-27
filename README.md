@@ -16,7 +16,7 @@
 - ⚡ Fun fact:  If you passionate about data, you can do anything with Data
 
 ## Connect with me:
-![image](https://github.com/user-attachments/assets/d091d963-9fec-4fe1-bff1-9fb3623a085b)
+(https://github.com/user-attachments/assets/d091d963-9fec-4fe1-bff1-9fb3623a085b)
 www.linkedin.com/in/chandrim-dey-sajjan
 
 
