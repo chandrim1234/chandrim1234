@@ -1,16 +1,17 @@
-## Hi there 👋
+  ## Hello, I'm Chandrim Dey Sajjan👋
+## | "Data Analyst" | @Data Associate Analyst | Freelancer Data Quality Analyst @Upwork
 
-<!--
-**chandrim1234/chandrim1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on : Freelancer Data Quality Analyst
+- 🌱 I’m currently learning: Data Science
+- 💬 My Experties: Python|SQL|Power BI|Tableau|Excel|Statistical Analysis|
+- 📫 How to reach me: chandrimdey988@gmail.com
+- 📄 Know about me 
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact:  If you passionate about data, you can do anything with Data
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me:
+
+www.linkedin.com/in/chandrim-dey-sajjan
+
+## Languages and Tools:
