@@ -19,4 +19,8 @@
 www.linkedin.com/in/chandrim-dey-sajjan
 
 ## Languages and Tools:
-https://raw.githubusercontent.com/D4Vinci/Dr0p1t-Framework/master/icons/Microsoft-Excel.ico,https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg,https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg, https://github.com/microsoft/PowerBI-Icons/raw/main/PNG/Power-BI.png  
+ ![image](https://github.com/user-attachments/assets/60dee718-76d2-4f87-9980-1b5103fca0f5), ![image](https://github.com/user-attachments/assets/99a8367d-ca95-4f32-949f-669ef6e7b3b2), ![image](https://github.com/user-attachments/assets/16832b5e-6382-4cf0-a653-a4c051447e67), ![image](https://github.com/user-attachments/assets/ad37d783-6a3e-4b5f-a3a9-e823ff2cd74c)
+
+ 
+ 
+
