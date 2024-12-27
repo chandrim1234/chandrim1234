@@ -18,7 +18,7 @@
 
 - 📫 How to reach me: chandrimdey988@gmail.com
 
-- 📄 Know about me: https://drive.google.com/file/d/1amILyw5mVaaX0JG_JNtT_Ga5ja5s7uHY/view?usp=drive_link
+- 📄 Know about me: Data analyst.resume(new).pdf
 
 - 😄 Pronouns: He/Him
 
