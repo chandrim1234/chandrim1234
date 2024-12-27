@@ -1,6 +1,7 @@
 ##                                   ![1733812417862](https://github.com/user-attachments/assets/5e184368-7b02-44d8-8d0f-2c7d9a5b592d)
-##                                                              Hello, I'm Chandrim Dey Sajjan👋
+##                                                                Hello, I'm Chandrim Dey Sajjan👋
 ##                                        | "Data Analyst" | @Data Associate Analyst | Freelancer Data Quality Analyst @Upwork
+
 
 
 
@@ -14,7 +15,7 @@
 - ⚡ Fun fact:  If you passionate about data, you can do anything with Data
 
 ## Connect with me:
-
 www.linkedin.com/in/chandrim-dey-sajjan
 
 ## Languages and Tools:
+-  Python SQL Power BI Tableau Excel
