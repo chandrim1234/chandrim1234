@@ -10,13 +10,13 @@
 
 
 
-- 🔭 I’m currently working on : Freelancer Data Quality Analyst                ![image](https://github.com/user-attachments/assets/26e6eb37-d67f-408d-b93f-6ea5282dd96b)
-
+- 🔭 I’m currently working on : Freelancer Data Quality Analyst            
 
 - 🌱 I’m currently learning: Data Science
   
 - 💬 My Experties: Python | SQL | Power BI | Tableau | Excel | Statistical Analysis |
 
+- 👨‍💻 All of my projects are available at: https://github.com/chandrim1234/chandrim1234
 - 📫 How to reach me: chandrimdey988@gmail.com
 
 - 📄 Know about me: - https://drive.google.com/file/d/1amILyw5mVaaX0JG_JNtT_Ga5ja5s7uHY/view?usp=drive_link
