@@ -27,7 +27,7 @@
 
 ## Connect with me:
 ![image](https://github.com/user-attachments/assets/d091d963-9fec-4fe1-bff1-9fb3623a085b)
-www.linkedin.com/in/chandrim-dey-sajjan
+https://www.linkedin.com/in/chandrim-deysajjan
 
 
 ## Languages and Tools:
