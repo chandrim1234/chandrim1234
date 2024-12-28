@@ -10,7 +10,8 @@
 
 
 
-- 🔭 I’m currently working on : Freelancer Data Quality Analyst
+- 🔭 I’m currently working on : Freelancer Data Quality Analyst                ![image](https://github.com/user-attachments/assets/26e6eb37-d67f-408d-b93f-6ea5282dd96b)
+
 
 - 🌱 I’m currently learning: Data Science
   
@@ -35,8 +36,6 @@ https://www.linkedin.com/in/chandrim-deysajjan
 
 
 ![image](https://github.com/user-attachments/assets/ad4a5081-962b-495a-8cde-266892446d9d)
-
-![image](https://github.com/user-attachments/assets/061e2f36-32c6-4324-b166-445aa7d080aa)
 
 
 
