@@ -19,7 +19,7 @@
 - 👨‍💻 All of my projects are available at: https://github.com/chandrim1234/chandrim1234
 - 📫 How to reach me: chandrimdey988@gmail.com
 
-- 📄 Know about me: - https://drive.google.com/file/d/1z5PtBo-McMehXnKjxpnTKRZhuRY7uXxp/view?usp=drive_link
+- 📄 Know about me: - https://drive.google.com/file/d/115MCeM_fcZj6mrMMd43vW4FVFbFUgOn8/view?usp=drive_link
 
 - 😄 Pronouns: He/Him
 
