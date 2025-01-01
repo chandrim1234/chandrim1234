@@ -20,7 +20,7 @@
 
 - 📫 How to reach me: chandrimdey988@gmail.com
 
-- 📫 How to contact me: (+91)8910501674
+- 📞 How to contact me: (+91)8910501674
 
 - 📄 Know about me: - https://drive.google.com/file/d/1MHDcYG3-dR_El2yZIrNJBH83CkQkd593/view?usp=drive_link
 
