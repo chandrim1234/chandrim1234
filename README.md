@@ -17,7 +17,10 @@
 - 💬 My Experties: Python | SQL | Power BI | Tableau | Excel | Statistical Analysis |
 
 - 👨‍💻 All of my projects are available at: https://github.com/chandrim1234/chandrim1234
+
 - 📫 How to reach me: chandrimdey988@gmail.com
+
+- 📫 How to contact me: (+91)8910501674
 
 - 📄 Know about me: - https://drive.google.com/file/d/1MHDcYG3-dR_El2yZIrNJBH83CkQkd593/view?usp=drive_link
 
