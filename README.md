@@ -2,7 +2,7 @@
                                               Hello, I'm Chandrim Dey Sajjan👋
                                                               
 
-                        | "Data Analyst" | @Data Associate Analyst | Freelancer Data Quality Analyst @Upwork
+                        Data Science & Analyst Trainee | Freelancer Data Quality Analyst @fiverr
 
 
 
