@@ -1,9 +1,8 @@
 ![image](https://github.com/user-attachments/assets/e9bfcc77-34a3-4c30-a3f9-9b6f90164327)
 
-                                             # Hello,👋 I'm Chandrim Dey Sajjan
-                                                              
+# Hello,👋 I'm Chandrim Dey Sajjan
 
-                        # Data Analyst & Power BI Developer | Freelancer Data Quality Analyst @fiverr
+# Data Analyst & Power BI Developer | Freelancer Data Quality Analyst @fiverr
 
 
 
