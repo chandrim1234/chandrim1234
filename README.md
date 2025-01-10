@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on : Freelancer Data Quality Analyst            
 
-- 🌱 I’m currently learning: Data Science
+- 🌱 I’m currently learning: Machine learning and AI engineering 
   
 - 💬 My Experties: Python | SQL | Power BI | Tableau | Excel | Statistical Analysis |
 
