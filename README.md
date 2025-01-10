@@ -1,4 +1,5 @@
-##                                    ![1733812417862](https://github.com/user-attachments/assets/5e184368-7b02-44d8-8d0f-2c7d9a5b592d) 
+![image](https://github.com/user-attachments/assets/e9bfcc77-34a3-4c30-a3f9-9b6f90164327)
+
                                               Hello, I'm Chandrim Dey Sajjan👋
                                                               
 
