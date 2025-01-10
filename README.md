@@ -30,7 +30,8 @@
 
 
 ## Connect with me:
-![download](https://github.com/user-attachments/assets/31832c0a-1aab-4afb-9d33-5b1b673227a3)
+
+![image](https://github.com/user-attachments/assets/9e6490f0-af82-4cd7-a15e-625afd08b67c)
 
 https://www.linkedin.com/in/chandrim-deysajjan
 
