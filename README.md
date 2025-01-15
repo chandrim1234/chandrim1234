@@ -2,7 +2,7 @@
 
                                                    Hello,👋 I'm Chandrim Dey Sajjan
 
-                              Data Analyst & Power BI Developer | Freelancer Data Quality Analyst @fiverr
+                                  Data Scientist & Analyst | Freelancer Data Quality Analyst @fiverr
 
 
 
