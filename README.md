@@ -23,7 +23,7 @@
 
 - 📞 How to contact me: (+91)8910501674
 
-- 📄 My Resume: - https://drive.google.com/file/d/1E5jszP53Pk1GMXDD6321JeqtCXhYuepY/view?usp=drive_link
+
 - 😄 Pronouns: He/Him
 
 - ⚡ Fun fact:  If you passionate about data, you can do anything with Data
