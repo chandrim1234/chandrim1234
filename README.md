@@ -3,7 +3,7 @@
 
                                                    Hello,👋 I'm Chandrim Dey Sajjan
 
-                                  Data Scientist & Analyst | Freelancer Data Quality Analyst @fiverr
+                                                      Data Scientist & Analyst 
 
 
 
