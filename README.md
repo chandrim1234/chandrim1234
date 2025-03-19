@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1ce1bb2d-d055-4b76-8309-0654fd6d657c)
+![my Banner](https://github.com/user-attachments/assets/ddf6d6b3-9c98-4547-a1ce-469cb256ca93)
 
 
   # Hello,👋I'm Chandrim Dey Sajjan
