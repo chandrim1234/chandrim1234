@@ -1,9 +1,9 @@
 ![image](https://github.com/user-attachments/assets/1ce1bb2d-d055-4b76-8309-0654fd6d657c)
 
 
-                                                   Hello,👋 I'm Chandrim Dey Sajjan
+# Hello,👋 I'm Chandrim Dey Sajjan
 
-                                                      Data Scientist & Analyst 
+# Data Scientist & Analyst 
 
 
 
