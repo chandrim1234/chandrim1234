@@ -11,11 +11,11 @@
 
 
 
-- 🔭 I’m currently working on : Freelancer Data Quality Analyst            
+- 🔭 I’m currently working on : Data Scientist & Analyst            
 
 - 🌱 I’m currently learning: Machine learning and AI engineering 
   
-- 💬 My Experties: Python | SQL | Power BI | Tableau | Excel | Statistical Analysis |
+- 💬 My Experties: Python | SQL | Power BI | Tableau | Excel | Statistical Analysis | 
 
 - 👨‍💻 All of my projects are available at: https://github.com/chandrim1234/chandrim1234
 
