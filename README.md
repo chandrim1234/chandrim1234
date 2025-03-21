@@ -25,7 +25,7 @@
 
 - 📞 How to contact me: (+91)8910501674
 
--  ![LinkedIn_icon svg](https://github.com/user-attachments/assets/0ab97c6b-cb65-4cb1-a1a1-a2a3848dee01)connect with me: https://www.linkedin.com/in/chandrim-deysajjan
+- 🔨 connect with me: https://www.linkedin.com/in/chandrim-deysajjan
 
 - 😄 Pronouns: He/Him
 
