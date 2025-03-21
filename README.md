@@ -25,17 +25,12 @@
 
 - 📞 How to contact me: (+91)8910501674
 
+-    Connect with me: https://www.linkedin.com/in/chandrim-deysajjan
 
 - 😄 Pronouns: He/Him
 
 - ⚡ Fun fact:  If you passionate about data, you can do anything with Data
 
-
-## Connect with me:
-
-![image](https://github.com/user-attachments/assets/9e6490f0-af82-4cd7-a15e-625afd08b67c)
-
-https://www.linkedin.com/in/chandrim-deysajjan
 
 
 ## Languages and Tools:
