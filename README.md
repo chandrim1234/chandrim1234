@@ -3,7 +3,7 @@
 
   # Hello,👋I'm Chandrim Dey Sajjan
 
-  # Data Scientist & Analyst📊
+  # Data Scientist & Research Analyst📊
 
 
 
@@ -11,11 +11,11 @@
 
 
 
-- 🔭 I’m currently working on : Data Scientist & Analyst            
+- 🔭 I’m currently working on : Data Research Analyst            
 
-- 🌱 I’m currently learning: Machine learning and AI engineering 
+- 🌱 I’m currently learning: Machine learning and AI engineering & Reasearch Developement 
   
-- 💬 My Experties: Python | SQL | Power BI | Tableau | Excel | Statistical Analysis | 
+- 💬 My Experties: Python | SQL | Power BI | Tableau | Excel | Statistical Analysis | Executive Research | 
 
 - 👨‍💻 All of my projects are available at: https://github.com/chandrim1234/chandrim1234
 
