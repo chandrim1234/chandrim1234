@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on : Data Research Analyst            
 
-- 🌱 I’m currently learning: Machine learning and AI engineering & Reasearch Developement 
+- 🌱 I’m currently learning: National Instituite Of Secutity Market(NISM) Reasearch Developement Analytics
   
 - 💬 My Experties: Python | SQL | Power BI | Tableau | Excel | Statistical Analysis | Executive Research | 
 
