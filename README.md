@@ -3,8 +3,7 @@
 
   # Hello,👋I'm Chandrim Dey Sajjan
 
-  # Senior MIS System Analyst @CMS Info Solution📊 
-  # NISM-XV Research Analyst📊
+  # "Senior MIS System Analyst" | "NISM-XV Research Analyst" |📊
 
 
 
