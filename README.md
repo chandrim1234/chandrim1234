@@ -1,9 +1,10 @@
-![my Banner](https://github.com/user-attachments/assets/ddf6d6b3-9c98-4547-a1ce-469cb256ca93)
+![WhatsApp Image 2025-05-10 at 20 30 01_8eb8f059](https://github.com/user-attachments/assets/9f3a3960-a095-47f5-9f77-a11f759c973e)
 
 
   # Hello,👋I'm Chandrim Dey Sajjan
 
-  # Data Scientist & Research Analyst📊
+  # Senior MIS System Analyst @CMS Info Solution📊 
+  # NISM-XV Research Analyst📊
 
 
 
@@ -11,11 +12,11 @@
 
 
 
-- 🔭 I’m currently working on : Data Research Analyst            
+- 🔭 I’m currently working on: Senior MIS System Analyst @CMS Info Solution          
 
-- 🌱 I’m currently learning: National Instituite Of Secutity Market(NISM) Reasearch Developement Analytics
+- 🌱 I’m currently learning: National Institute of Securities Market(NISM) Research Development Analytics
   
-- 💬 My Experties: Python | SQL | Power BI | Tableau | Excel | Statistical Analysis | Executive Research | 
+- 💬 My Experties: MIS System | Data Warehouse | Data Management | Python | SQL | Power BI | Tableau | Excel | Statistical Analysis | Executive Research | 
 
 - 👨‍💻 All of my projects are available at: https://github.com/chandrim1234/chandrim1234
 
@@ -29,7 +30,7 @@
 
 - 😄 Pronouns: He/Him
 
-- ⚡ Fun fact:  If you passionate about data, you can do anything with Data
+- ⚡ Fun fact:  If you're passionate about data, you can do anything with Data
 
 
 
