@@ -3,7 +3,7 @@
 
   # Hello,👋I'm Chandrim Dey Sajjan
 
-  # "Senior MIS System Analyst" | "NISM-XV Research Analyst" |📊
+  # "Lead Operation Analyst" Ex- "Senior MIS System Analyst" | "NISM-XV Research Analyst" |📊
 
 
 
@@ -11,9 +11,9 @@
 
 
 
-- 🔭 I’m currently working on: Senior MIS System Analyst @CMS Info Solution          
+- 🔭 I’m currently working on:  Lead Operation Analyst @Albertonsons Company Inc           
 
-- 🌱 I’m currently learning: National Institute of Securities Market(NISM) Research Development Analytics
+- 🌱 I’m currently learning: Amity University Online - MBA In Data Science. 
   
 - 💬 My Experties: MIS System | Data Warehouse | Data Management | Python | SQL | Power BI | Tableau | Excel | Statistical Analysis | Executive Research | 
 
